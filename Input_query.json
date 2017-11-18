@@ -1,0 +1,14 @@
+{
+	"query":{"appmode": "1",
+			"residencetype":"Apartment",
+			"agepreferred":"20-25",
+			"genderpreferred":"Male",
+			"nearestregion":"Wichita-DownTown",
+			"rentrange":"1000-1499",
+			"noofrommatespreferred":"4"
+		},
+	"user":{"id":"100001",
+			"name":"Srinivas",
+			"age":"24"
+			}			
+}
